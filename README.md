@@ -1,4 +1,4 @@
-# sparkjava-war-example
+# sparkjava-war-example for jenkins github webhook testing
 Build war with maven and sparkjava framework
 
 Steps:
