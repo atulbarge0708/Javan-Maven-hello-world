@@ -1,4 +1,4 @@
-# sparkjava-war-example for jenkins github webhook testing and build number 10 sould triger
+# sparkjava-war-example for jenkins github webhook testing and build number 10 sould triger .
 Build war with maven and sparkjava framework
 
 Steps:
